@@ -1,4 +1,4 @@
-## Read 02 - JavaScript and jQuery book by Jon Duckett pages 293-301, 306-331 and 354-357
+## Read 02 - jQuery, Events, and The DOM
 
 jQuery is a JavaScript file that lets you find elements using CSS selectors and then do something with the elements using jQuery methods. 
 
