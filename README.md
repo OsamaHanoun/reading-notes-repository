@@ -5,7 +5,7 @@ this website is a Reading notes repo to hold my 301 reading notes
 | Task  |  Link |
 |---|---|
 | SMACSS and Responsive Web Design | [Read 1](https://osamahanoun.github.io/reading-notes-repository/class-01)  |
-| | [Read 2](https://osamahanoun.github.io/reading-notes-repository/class-02) |
+| jQuery, Events, and The DOM | [Read 2](https://osamahanoun.github.io/reading-notes-repository/class-02) |
 | | [Read 3](https://osamahanoun.github.io/reading-notes-repository/class-03) |
 | |[Read 4](https://osamahanoun.github.io/reading-notes-repository/class-04)|
 | |[Read 5](https://osamahanoun.github.io/reading-notes-repository/class-05)|
