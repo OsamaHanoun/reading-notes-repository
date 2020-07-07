@@ -11,7 +11,7 @@ this website is a Reading notes repo to hold my 301 reading notes
 | Heroku Deployment |[Read 5](https://osamahanoun.github.io/reading-notes-repository/class-05)|
 | Node, Express, and APIs |[Read 6](https://osamahanoun.github.io/reading-notes-repository/class-06)|
 | APIs continued |[Read 7](https://osamahanoun.github.io/reading-notes-repository/class-07)|
-| |[Read 8](https://osamahanoun.github.io/reading-notes-repository/class-08)|
+| SQL |[Read 8](https://osamahanoun.github.io/reading-notes-repository/class-08)|
 | |[Read 9](https://osamahanoun.github.io/reading-notes-repository/class-09)|
 | |[Read 10](https://osamahanoun.github.io/reading-notes-repository/class-10)|
 | |[Read 11](https://osamahanoun.github.io/reading-notes-repository/class-11)|
