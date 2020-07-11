@@ -1,4 +1,4 @@
-  # EJS
+# EJS
 
 [EJS Tutorial](https://www.youtube.com/watch?v=itb9HlLosVk&list=PL7sCSgsRZ-slYARh3YJIqPGZqtGVqZRGt&index=5&t=0s)
 
@@ -8,7 +8,7 @@ Working with volumes
 Performing a search
 You can perform a volumes search by sending an HTTP GET request to the following URI:
 
-https://www.googleapis.com/books/v1/volumes?q=search+terms
+[https://www.googleapis.com/books/v1/volumes?q=search+terms](https://www.googleapis.com/books/v1/volumes?q=search+terms)
 
 This request has a single required parameter:
 
@@ -23,4 +23,4 @@ oclc: Returns results where the text following this keyword is the Online Comput
 Request
 Here is an example of searching for Daniel Keyes' "Flowers for Algernon":
 
-GET https://www.googleapis.com/books/v1/volumes?q=flowers+inauthor:keyes&key=yourAPIKey
+GET [https://www.googleapis.com/books/v1/volumes?q=flowers+inauthor:keyes&key=yourAPIKey](https://www.googleapis.com/books/v1/volumes?q=flowers+inauthor:keyes&key=yourAPIKey)
