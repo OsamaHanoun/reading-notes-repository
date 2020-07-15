@@ -17,5 +17,5 @@ this website is a Reading notes repo to hold my 301 reading notes
 | EJS |[Read 11](https://osamahanoun.github.io/reading-notes-repository/class-11)|
 | EJS PARTIALS |[Read 12](https://osamahanoun.github.io/reading-notes-repository/class-12)|
 | Update/Delete |[Read 13](https://osamahanoun.github.io/reading-notes-repository/class-13)|
-| |[Read 14](https://osamahanoun.github.io/reading-notes-repository/class-14)|
+|DB Normalization |[Read 14](https://osamahanoun.github.io/reading-notes-repository/class-14)|
 | |[Read 15](https://osamahanoun.github.io/reading-notes-repository/class-15)|
