@@ -18,4 +18,4 @@ this website is a Reading notes repo to hold my 301 reading notes
 | EJS PARTIALS |[Read 12](https://osamahanoun.github.io/reading-notes-repository/class-12)|
 | Update/Delete |[Read 13](https://osamahanoun.github.io/reading-notes-repository/class-13)|
 |DB Normalization |[Read 14](https://osamahanoun.github.io/reading-notes-repository/class-14)|
-| |[Read 15](https://osamahanoun.github.io/reading-notes-repository/class-15)|
+| Diversity and Inclusion |[Read 15](https://osamahanoun.github.io/reading-notes-repository/class-15)|
